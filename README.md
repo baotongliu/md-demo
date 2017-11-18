@@ -2,7 +2,7 @@
 [Golang](http://golang.org)代码汇集
 
 ## 代码
-    ```golang
+    ```go
     package main
     import (
         "fmt"
